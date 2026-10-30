@@ -1,4 +1,4 @@
-# week-08-ml-case-study
+
 # Week 8 Showcase: Content Page Prioritization Using Machine Learning
 
 **Author:** Saideepak Kulkarni  
